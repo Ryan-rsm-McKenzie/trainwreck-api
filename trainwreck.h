@@ -1,4 +1,5 @@
 #include <Windows.h>
+#include <stddef.h>
 #include <stdint.h>
 
 #pragma comment(lib, "Kernel32")
